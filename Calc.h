@@ -4,5 +4,4 @@ double sum(double, double);
 double dif(double, double);
 double mul(double, double);
 double div(double, double);
-
 #endif
